@@ -1,0 +1,4 @@
+Manidest-version: 1.0
+Created-By: Gabriel torrealba
+Main-Class: Bienvenida
+X-COMMENT: Primer programa
