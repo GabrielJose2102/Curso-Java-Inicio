@@ -114,10 +114,15 @@ Como desarrollo del proyecto final se realizo una aplicacion sencilla, basada en
 La app cuenta con 3 modulos, y su funcion es laa de calcular los dias de vacaciones que le corresponde a un trabajador segun su cargo y años de lbor en l empresa, para esto se debe iniciar la app con un usuario y aceptar los terminos de la licencia.
 
 - Login
+
 ![](proyecto-img/Login.png)
+
 - Lincencia
+
 ![](proyecto-img/Licencia.png)
+
 - Interfaz Principal
+
 ![](proyecto-img/Principal.png)
 
 
