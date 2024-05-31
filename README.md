@@ -1,7 +1,7 @@
 
 # Practica de Curso Java Inicio
 
-Jaava 1er curso desde el inicio conceptos basicos de la programacion usado en java y manejo de los componentes visuales y creacion formularios, usando el bloc de notas y la terminal.
+Java 1er curso desde el inicio conceptos basicos de la programacion usado en java y manejo de los componentes visuales y creacion formularios, usando el bloc de notas y la terminal.
 ## Contenido
 
 - Principios basico de programacion en Java.
