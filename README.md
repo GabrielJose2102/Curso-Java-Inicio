@@ -126,7 +126,7 @@ La app cuenta con 3 modulos, y su funcion es laa de calcular los dias de vacacio
 ![](proyecto-img/Principal.png)
 
 
-## Authors
+## Autor
 
 - [@GabrielTorrealba](https://github.com/GabrielJose2102)
 
